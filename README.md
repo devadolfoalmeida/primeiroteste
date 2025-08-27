@@ -1,2 +1,2 @@
 # primeiroteste
-primeiro repositorio
+primeiro repositório
